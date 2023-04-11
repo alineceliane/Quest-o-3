@@ -1,0 +1,60 @@
+body{
+    width: 100%;
+    height: 100%; 
+    background-image: url(https://assets.unileversolutions.com/recipes-v2/178649.jpg);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient(to right, rgb(106, 108, 109) , rgb(57, 196, 238),rgb(106, 108, 109) ); 
+ 
+
+}
+#corpo{
+    margin-top: 10px;
+    box-shadow: 2px 1px 2px rgb(131, 126, 126);
+    background:rgba(0, 0, 0, 0.3);
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+h3,h4,li,p{
+    display: flex;
+    justify-content: center;
+
+    
+}
+.um{
+    color: rgb(243, 240, 42);
+}
+del{
+    color: rgb(252, 0, 0);
+}
+.dois{
+    color: rgb(26, 253, 75);
+}
+.treis{
+    color: rgb(17, 175, 248);
+}
+.quatro{
+    color: rgb(245, 131, 0);
+}
+.cinco{
+    color: rgb(233, 7, 253);
+}
+.seis{
+    color: rgb(115, 255, 1);
+}
+.sete{
+    color: rgb(22, 252, 213);
+}
+h4{
+    color: brown;
+    text-shadow: 2px 2px 2px rgb(245, 240, 240);
+}
+h3{
+    color: rgb(42, 38, 44);
+    text-shadow: 2px 2px 2px rgb(245, 240, 240);
+}
