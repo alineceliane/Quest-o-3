@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>bolo de chocolate</title>
+    <link rel="stylesheet" href="bolochocolate.css">
+</head>
+<body>
+    <h1> Receita de bolo de chocolate</h1>
+    <div id="corpo">
+
+        <div> <p class="igredientes"> <h3> Igredientes:</h3></p>
+            <ul>
+                 <li class="um"> 2 xícaras (chá) de farinha de trigo</li>
+                 <li> <del>1 e meia xícara (chá) de açúcar </del>  </li>
+                 <li class="dois"> 1 xícara (chá) de Chocolate em Pó</li>
+                 <li class="treis"> 1 colher (sopa) de fermento em pó</li>
+                 <li class="quatro"> meia colher (chá) de bicarbonato de sódio</li>
+                 <li class="cinco"> 1 xícara (chá) de óleo</li>
+                 <li class="seis"> 3 ovos</li>
+                 <li class="sete"> 2 xícaras (chá) de água fervente</li>
+            </ul>
+        </div>
+
+        <div>
+            <p> <h3> Modo de preparo:</h3></p>
+            <ol> 
+                <li> Em um recipiente, misture a farinha de trigo, o açúcar, o Chocolate em Pó, o fermento e o bicarbonato peneirados.</li>
+                 <li> Junte o óleo, os ovos e a água fervente, misturando bem.</li>
+                 <li> Despeje a massa em uma forma de furo central (24 cm de diâmetro) untada com óleo e polvilhada com farinha de trigo, e leve ao forno médio (180°C), preaquecido, por 40 minutos.</li>
+            </ol>
+        </div>
+
+        <div>
+            <h4>Dicas: </h4>
+            <p> 
+                Um segredo para o bolo não ficar solado é a quantidade correta de ingredientes. Por isso, é sempre importante usar colheres<br> 
+                e xícaras medidas, principalmente no preparo de receitas doces. Além disso, não abra o forno antes de pelo menos 30 minutos <br> 
+                para que não interrompa o crescimento da massa. Assim você evita que o bolo fique embatumado ou massudo. <br> 
+                - Para o Bolo não solar a dica é pré-aquecer o forno antes de começar a fazer a receita e sempre deixar a temperatura indicada<br>  
+                no modo de preparo, pois a temperatura muito alta assa a superfície do bolo, impedindo que ele cresça. Outra dica importante é não<br>  
+                bater a massa demais... Mexer apenas o suficiente para que os ingredientes estejam incorporados. E para o bolo não murchar,<br>  
+                não abrir o forno nos primeiros 20 minutos (pelo menos).<br> 
+                - Para o crescimento igual do seu Bolo de Chocolate, o fogo do forno deve estar regulado, pode acontecer de ter um lado<br>  
+                mais forte que outro e isso faz com que seu bolo cresça desigual. Outro problema pode ser a grade que pode estar colocada<br>  
+                errada (torta) ou o fogão estar desnivelado.<br> 
+                - Não desenforme seu bolo ainda quente. O bolo deve ser desenformado morno, com muito cuidado para não quebrar. Se deixar<br>  
+                esfriar totalmente, ele gruda e fica difícil desenformar. Nesse caso, caso isso aconteça, pode passar a base da assadeira<br>  
+                por água quente ou passar rapidinho pela boca do fogão para ajudar a soltar.<br> 
+                - Para que o Bolo de Chocolate não fique úmido e cru ele deve ficar tempo suficiente no forno. Uma dica que sempre funciona,<br>  
+                é espetar um palito no meio da massa tirar para ter certeza que assou por inteiro. Sabemos que podem haver diferenças de temperatura<br> 
+                de forno para forno.<br> 
+            </p>
+        </div>
+
+    </div>
+
+
+    
+</body>
+</html>
